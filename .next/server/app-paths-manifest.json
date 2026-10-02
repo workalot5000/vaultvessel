@@ -1,0 +1,8 @@
+{
+  "/shop/page": "app/shop/page.js",
+  "/product/[slug]/page": "app/product/[slug]/page.js",
+  "/quote/page": "app/quote/page.js",
+  "/page": "app/page.js",
+  "/[dept]/page": "app/[dept]/page.js",
+  "/converted-spaces/page": "app/converted-spaces/page.js"
+}
